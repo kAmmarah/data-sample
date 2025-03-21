@@ -51,7 +51,7 @@ pip install streamlit pandas openpyxl matplotlib seaborn
 
 ### 5️⃣ **I ran my Streamlit App 🚀**
 ```bash
-streamlit run app.py
+streamlit run d-s.py
 ```
 ✅ It opened automatically in my browser 🌐
 
