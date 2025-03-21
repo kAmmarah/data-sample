@@ -13,9 +13,9 @@ This app helps you 📥 **upload Excel data**, 📑 **view the data**, 🧮 **an
 ---
 
 ### 1️⃣ **I created a project folder 📂**
-- Named it: `data-sample-app`
+- Named it: `d-s.py`
 - Inside it, I added:
-  - `app.py` — My Streamlit Python file 🐍
+  - `d-s.py` — My Streamlit Python file 🐍
   - `requirements.txt` — For library dependencies
   - `data_sample.xlsx` — Sample Excel data file (optional)
 
