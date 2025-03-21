@@ -67,7 +67,7 @@ streamlit run d-s.py
 ---
 
 ### 7️⃣ **I can Deploy this App Online 🌍**
-- On **Replit**
+- On **Replit** (Optional)
 - **Streamlit Cloud**
 - **PythonAnywhere**
 
