@@ -49,7 +49,7 @@ pip install streamlit pandas openpyxl matplotlib seaborn
 
 ---
 
-### 5️⃣ **I ran my Streamlit App 🚀**
+### 5️⃣ **I run my Streamlit App 🚀**
 ```bash
 streamlit run d-s.py
 ```
